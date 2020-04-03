@@ -16,7 +16,7 @@ body {
 
 #content {
   margin: 7%;
-  border: solid blue;
+  border: solid cyan;
   border-width: 8px;
   border-radius: 20px;
 }
