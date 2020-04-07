@@ -54,7 +54,8 @@ a:link {
 }
 
 a:visited {
-  color: cyan;
+  text-decoration: line-through;
+  color: crimson;
 }
 
 a:hover {
