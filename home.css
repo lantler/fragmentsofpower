@@ -47,7 +47,7 @@ a:link {
 }
 
 a:visited {
-  color: cyan;
+  text-decoration: line-through;
 }
 
 a:hover {
